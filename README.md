@@ -5,7 +5,7 @@
 
 
 <p align="center">
-$\textcolor{pink}{hello \ ponytowners } $
+$\textcolor{pink}{hello \ chatters } $
 
 <p align="center">
 $\textcolor{pink}{spam \ follow \ account \ bc \ i \ got \ bored   } $
