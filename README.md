@@ -2,6 +2,9 @@
     <img src="https://64.media.tumblr.com/60597c40dae4d310e98d9ee494a37e22/35c84b613b922903-4e/s540x810/a71bca5f553d31632b7e1d6be82540cf536f74dc.pnj" alt="Your image description" />
 </p>
 
+<div align="center">
+
+ [HELP PALESTINE ](https://arab.org/click-to-help/palestine/)
 
 
 <p align="center">
