@@ -19,7 +19,9 @@ $\textcolor{pink}{spam \ follow \ account \ bc \ i \ got \ bored   } $
 
 <div align="center">
 
-୨ [non spam / main account ](https://github.com/tummyaches) , [rentry](https://rentry.co/oneheartbeat) , [retrospring](https://retrospring.net/@tummmyaches) ୧
+ ╭ [non spam / main account ](https://github.com/tummyaches) , [rentry](https://rentry.co/oneheartbeat) , [retrospring](https://retrospring.net/@tummmyaches) ╮
+ 
+
 </div>
 
 <p align="center">
