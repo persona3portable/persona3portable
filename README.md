@@ -14,7 +14,7 @@ $\textcolor{pink}{hello \ chatters } $
 $\textcolor{pink}{spam \ follow \ account \ bc \ i \ got \ bored   } $
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1216331712477397002/1237299444802650155/Untitled157_20240507073900.png?ex=66503c67&is=664eeae7&hm=115dccba66afd1b2f2723bfa8d861267468cb566378a7b0ef03b8ad497d2ebaf&=&format=webp&quality=lossless&width=920&height=517" alt="Your image description" />
+    <img src="https://media.discordapp.net/attachments/1216331712477397002/1237299444802650155/Untitled157_20240507073900.png?ex=6668a027&is=66674ea7&hm=c20ada5a044a458d65bb5963cd5c7bad2afcf9d0c3b6d666ddd631e7cdcb9abd&=&format=webp&quality=lossless&width=920&height=517" alt="Your image description" />
 </p>
 
 <div align="center">
